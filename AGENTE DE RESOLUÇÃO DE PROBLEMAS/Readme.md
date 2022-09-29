@@ -1,6 +1,6 @@
-# Laboratório 2
+# Agentes de Resolução de Problemas
 
-## Agentes de Resolução de Problemas
+## Laboratório 2
 
 Agentes de resoluçãoo de problemas são agentes baseados em objetivos. A resolução de problemas inicia com uma formulação precisa do problema.
 Suponha um agente na cidade de Arad, na Romênia, deseje chegar a Bucharest, utilizando como informaçãoo o mapa rodoviário simplificado da Romênia mostrado abaixo:
