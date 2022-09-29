@@ -11,7 +11,7 @@ Suponha um agente na cidade de Arad, na Romênia, deseje chegar a Bucharest, uti
 
 Você deve implementar o mapa da Romênia como um sistema de transição de estados em que os estados são cidades e as transições são as estradas rotuladas com a distância entre as cidades. Logo, a estrutura de dados que representa este mapa deve ser um grafo não-direcional.
 
-Considerar as representações possíveis para grafos tais como: matriz ou listas de adjacências
+Considerar as representações possíveis para grafos tais como: matriz ou listas de adjacências. E elabore com um algoritmo de busca em largura(BFS)
 
 ## Executar o projeto
 
